@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "date": "2024-06-01",
+    "title": "Juego del Dia 1",
+    "categories": [
+      {
+        "title": "Alguien que no encaja",
+        "difficulty": "yellow",
+        "words": ["PARIA", "INADAPTADO", "OVEJA NEGRA", "MARGINADO"],
+        "description": "Cosas que no encajan en un grupo"
+      },
+      {
+        "title": "Lugares en los que quedarse atrapado",
+        "difficulty": "green",
+        "words": ["TRAMPA", "RED", "TELARAÑA", "ENREDADERA"],
+        "description": "Lugares donde uno puede quedarse atrapado"
+      },
+      {
+        "title": "Cosas que se obtienen de animales",
+        "difficulty": "blue",
+        "words": ["LECHE", "HUEVO", "LANA", "CARNE"],
+        "description": "Cosas que se obtienen de animales"
+      },
+      {
+        "title": "Cosas pegajosas",
+        "difficulty": "purple",
+        "words": ["PEGAMENTO", "GOMA", "ALMIBAR", "CERA"],
+        "description": "Cosas que son pegajosas o se adhieren a otras superficies"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2024-06-02",
+    "title": "Juego del Dia 2",
+    "categories": [
+      {
+        "title": "Cosas puntiagudas",
+        "difficulty": "yellow",
+        "words": ["PIÑA", "ERIZO", "CACTUS", "AGUJA"],
+        "description": "Cosas puntiagudas"
+      },
+      {
+        "title": "Herramientas de taller",
+        "difficulty": "green",
+        "words": ["GATO", "SIERRA", "MARTILLO", "NIVEL"],
+        "description": "Herramientas que se pueden encontrar en un taller o garaje"
+      },
+      {
+        "title": "Cosas de oficina",
+        "difficulty": "blue",
+        "words": ["CHINCHETA", "ESCRITORIO", "ORDENADOR", "LAPIZ"],
+        "description": "Objetos que se pueden encontrar en una oficina"
+      },
+      {
+        "title": "Elementos de playa",
+        "difficulty": "purple",
+        "words": ["ARENA", "SOMBRILLA", "TOALLA", "ALGAS"],
+        "description": "Cosas que se pueden encontrar en la playa"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "date": "2024-06-03",
+    "title": "Juego del Dia 3",
+    "categories": [
+      {
+        "title": "Piedras preciosas",
+        "difficulty": "yellow",
+        "words": ["DIAMANTE", "RUBI", "ZAFIRO", "ESMERALDA"],
+        "description": "Piedras preciosas"
+      },
+      {
+        "title": "Tipos de vidrio o cristal",
+        "difficulty": "green",
+        "words": ["ESMERILADO", "VIDRIERA", "TEMPLADO", "OPTICO"],
+        "description": "Tipos de vidrio o cristal"
+      },
+      {
+        "title": "Elementos relaccionados con el ojo",
+        "difficulty": "blue",
+        "words": ["IRIS", "PUPILA", "LENTES", "CRISTALINO"],
+        "description": "Objetos o fenomenos con una parte llamada ojo"
+      },
+      {
+        "title": "Nombres de mujer",
+        "difficulty": "purple",
+        "words": ["ANA", "GALA", "CONCEPCION", "MARIA"],
+        "description": "Nombres de mujer"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2024-06-04",
+    "title": "Juego del Dia 4",
+    "categories": [
+      {
+        "title": "Bailes",
+        "difficulty": "yellow",
+        "words": ["VALS", "TANGO", "CHOTIS", "PASODOBLE"],
+        "description": "Danzas de salón o populares. El tango y el pasodoble son también géneros musicales."
+      },
+      {
+        "title": "Instrumentos de cuerda",
+        "difficulty": "green",
+        "words": ["VIOLÍN", "ARPA", "MANDOLINA", "LAÚD"],
+        "description": "Instrumentos que producen sonido con cuerdas vibrantes"
+      },
+      {
+        "title": "Instrumentos de viento",
+        "difficulty": "blue",
+        "words": ["FLAUTA", "TROMPETA", "SAXOFÓN", "TROMBÓN"],
+        "description": "Instrumentos que producen sonido soplando"
+      },
+      {
+        "title": "Géneros musicales",
+        "difficulty": "purple",
+        "words": ["JAZZ", "BLUES", "REGGAE", "CUMBIA"],
+        "description": "Estilos musicales con identidad propia. La cumbia es también un baile."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "date": "2024-06-05",
+    "title": "Juego del Dia 5",
+    "categories": [
+      {
+        "title": "Flores",
+        "difficulty": "yellow",
+        "words": ["TULIPÁN", "CLAVEL", "BEGONIA", "GERANIO"],
+        "description": "Plantas cultivadas por sus flores"
+      },
+      {
+        "title": "Árboles frutales",
+        "difficulty": "green",
+        "words": ["CEREZO", "LIMONERO", "ALMENDRO", "GRANADO"],
+        "description": "Árboles que producen frutos comestibles"
+      },
+      {
+        "title": "Aves",
+        "difficulty": "blue",
+        "words": ["RUISEÑOR", "JILGUERO", "CANARIO", "GOLONDRINA"],
+        "description": "Pájaros conocidos por su canto o vuelo. El canario también es gentilicio de las Islas Canarias."
+      },
+      {
+        "title": "Nombres de mujer",
+        "difficulty": "purple",
+        "words": ["MARGARITA", "VIOLETA", "AZALEA", "LILA"],
+        "description": "Nombres femeninos que también son flores"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "date": "2024-06-06",
+    "title": "Juego del Dia 6",
+    "categories": [
+      {
+        "title": "Planetas del sistema solar",
+        "difficulty": "yellow",
+        "words": ["MERCURIO", "VENUS", "MARTE", "SATURNO"],
+        "description": "Planetas que orbitan alrededor del Sol. Todos llevan nombres de dioses romanos."
+      },
+      {
+        "title": "Dioses griegos",
+        "difficulty": "green",
+        "words": ["ZEUS", "HERA", "APOLO", "POSEIDÓN"],
+        "description": "Deidades del panteón de la antigua Grecia"
+      },
+      {
+        "title": "Héroes de la mitología griega",
+        "difficulty": "blue",
+        "words": ["HÉRCULES", "TESEO", "AQUILES", "ULISES"],
+        "description": "Personajes heroicos de los mitos griegos"
+      },
+      {
+        "title": "Constelaciones",
+        "difficulty": "purple",
+        "words": ["ORIÓN", "ANDRÓMEDA", "CASIOPEA", "PERSEO"],
+        "description": "Agrupaciones de estrellas. Orión, Andrómeda y Perseo son también personajes mitológicos."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "date": "2024-06-07",
+    "title": "Juego del Dia 7",
+    "categories": [
+      {
+        "title": "Técnicas de pintura",
+        "difficulty": "yellow",
+        "words": ["ACUARELA", "ÓLEO", "FRESCO", "TEMPLE"],
+        "description": "Métodos y medios utilizados para pintar. El temple también es un lugar de culto."
+      },
+      {
+        "title": "Materiales de escultura",
+        "difficulty": "green",
+        "words": ["MÁRMOL", "BRONCE", "ARCILLA", "GRANITO"],
+        "description": "Materiales con los que se tallan o moldean esculturas. El granito es también un tipo de roca."
+      },
+      {
+        "title": "Estilos arquitectónicos",
+        "difficulty": "blue",
+        "words": ["GÓTICO", "ROMÁNICO", "MUDÉJAR", "NEOCLÁSICO"],
+        "description": "Corrientes históricas en el diseño de edificios. El gótico y el neoclásico son también movimientos artísticos."
+      },
+      {
+        "title": "Movimientos artísticos",
+        "difficulty": "purple",
+        "words": ["IMPRESIONISMO", "CUBISMO", "SURREALISMO", "BARROCO"],
+        "description": "Corrientes que definieron épocas en la historia del arte. El barroco es también un estilo arquitectónico y musical."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "date": "2024-06-08",
+    "title": "Juego del Dia 8",
+    "categories": [
+      {
+        "title": "Asignaturas",
+        "difficulty": "yellow",
+        "words": ["MATEMÁTICAS", "HISTORIA", "BIOLOGÍA", "FILOSOFÍA"],
+        "description": "Materias que se estudian en el colegio o instituto"
+      },
+      {
+        "title": "Material escolar",
+        "difficulty": "green",
+        "words": ["REGLA", "COMPÁS", "ROTULADOR", "CARPETA"],
+        "description": "Objetos usados en clase. El compás también marca el ritmo en música."
+      },
+      {
+        "title": "Aparatos de gimnasia",
+        "difficulty": "blue",
+        "words": ["POTRO", "ANILLAS", "BARRA", "PLINTO"],
+        "description": "Material de gimnasia artística. El potro también es un caballo joven."
+      },
+      {
+        "title": "Figuras geométricas",
+        "difficulty": "purple",
+        "words": ["ROMBO", "HEXÁGONO", "TRAPECIO", "ELIPSE"],
+        "description": "Formas planas estudiadas en geometría. El trapecio también es un aparato de gimnasia."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "date": "2024-06-09",
+    "title": "Juego del Dia 9",
+    "categories": [
+      {
+        "title": "Animales domésticos o de corral",
+        "difficulty": "yellow",
+        "words": ["GATO", "PATO", "PALOMA", "CONEJO"],
+        "description": "Animales que conviven cerca del ser humano. El gato también es una herramienta de taller."
+      },
+      {
+        "title": "Herramientas y utensilios",
+        "difficulty": "green",
+        "words": ["SIERRA", "LLAVE", "PALETA", "NIVEL"],
+        "description": "Herramientas usadas en oficios manuales. La sierra también es una cadena montañosa."
+      },
+      {
+        "title": "Colores",
+        "difficulty": "blue",
+        "words": ["CARMÍN", "COBALTO", "OCRE", "TURQUESA"],
+        "description": "Tonos y pigmentos con nombre propio. La turquesa también es una piedra semipreciosa."
+      },
+      {
+        "title": "Animales marinos",
+        "difficulty": "purple",
+        "words": ["PULPO", "LENGUADO", "MERLUZA", "SEPIA"],
+        "description": "Animales que viven en el mar. La sepia también es un color marrón oscuro."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "date": "2024-06-10",
+    "title": "Juego del Dia 10",
+    "categories": [
+      {
+        "title": "Quesos",
+        "difficulty": "yellow",
+        "words": ["MANCHEGO", "CABRALES", "CAMEMBERT", "ROQUEFORT"],
+        "description": "Variedades de queso conocidas. El camembert es también un pueblo de Normandía."
+      },
+      {
+        "title": "Ciudades europeas",
+        "difficulty": "green",
+        "words": ["BURDEOS", "PARMA", "MILÁN", "VENECIA"],
+        "description": "Ciudades de Europa con gran tradición cultural o gastronómica. Burdeos da nombre también a un vino."
+      },
+      {
+        "title": "Vinos y bebidas",
+        "difficulty": "blue",
+        "words": ["RIOJA", "CAVA", "BOURBON", "SANGRÍA"],
+        "description": "Bebidas alcohólicas con denominación propia. La Rioja es también una comunidad autónoma española."
+      },
+      {
+        "title": "Regiones de Francia",
+        "difficulty": "purple",
+        "words": ["BRIE", "CHAMPAÑA", "BORGOÑA", "NORMANDÍA"],
+        "description": "Regiones francesas célebres por su gastronomía. Brie es también un queso; Champaña y Borgoña dan nombre a vinos."
+      }
+    ]
+  }
+]
