@@ -1,68 +1,68 @@
-# Word Connections Game
+# Juego de Conexiones de Palabras
 
-A Spanish-language word connections game inspired by The New York Times Connections. Group 16 words into 4 categories of 4 words each, where each category shares a common theme.
+Un juego de palabras en español inspirado en el Connections del New York Times. Agrupa 16 palabras en 4 categorías de 4 palabras cada una, donde cada categoría comparte un tema común.
 
-## How to Play
+## Cómo Jugar
 
-1. **16 words** are displayed in a grid, shuffled randomly each game
-2. **Select 4 words** you think belong to the same category
-3. Click **"Comprobar"** (Check) to verify your selection
-4. If correct, the category is removed and those words are no longer selectable
-5. If incorrect, you lose one **intento** (attempt) — you have 4 attempts total
-6. When 2+ selected words belong to the same unsolved category, they **highlight in green** as a pista (hint)
-7. Use **"Revelar"** to show all categories if stuck
+1. **16 palabras** se muestran en una cuadrícula, reorganizadas al azar cada juego
+2. **Selecciona 4 palabras** que crees que pertenecen a la misma categoría
+3. Haz clic en **"Comprobar"** (Check) para verificar tu selección
+4. Si es correcta, la categoría se elimina y esas palabras ya no son seleccionables
+5. Si es incorrecta, pierdes un **intento** (attempt) — tienes 4 intentos en total
+6. Cuando selecciones 2+ palabras que pertenecen a la misma categoría sin resolver, se **resaltan en verde** como una pista (hint)
+7. Usa **"Revelar"** para mostrar todas las categorías si te atascaste
 
-## Win/Loss Conditions
+## Condiciones de Victoria/Derrota
 
-- **Win**: Solve all 4 categories within 4 incorrect attempts
-- **Loss**: 4 incorrect attempts exhausted
+- **Victoria**: Resuelve las 4 categorías dentro de 4 intentos incorrectos
+- **Derrota**: Agotados los 4 intentos incorrectos
 
-## Features
+## Características
 
-- 10 daily puzzles with Spanish word categories
-- Color-coded difficulty: yellow (easiest) → green → blue → purple (hardest)
-- Dynamic hint system with green highlights
-- Circular puzzle navigation (next/previous)
-- Responsive design with Tailwind CSS v4
+- 10 puzzles diarios con categorías de palabras en español
+- Dificultad codificada por colores: amarillo (más fácil) → verde → azul → morado (más difícil)
+- Sistema dinámico de hints con resaltado en verde
+- Navegación circular de puzzles (siguiente/anterior)
+- Diseño responsive con Tailwind CSS v4
 
-## Available Puzzles
+## Puzzles Disponibles
 
-The game includes 10 puzzles (June 1–10, 2024), each with 4 categories:
+El juego incluye 10 puzzles (del 1 al 10 de junio de 2024), cada uno con 4 categorías:
 
 - Alguien que no encaja
 - Lugares en los que quedarse atrapado
 - Cosas que se obtienen de animales
 - Cosas pegajosas
-- And more: herramientas, instrumentos, animales, elementos de playa, piedras preciosas, bailes, plantas, planetas, técnicas de pintura, asignaturas, animales domésticos, quesos y más...
+- Y más: herramientas, instrumentos, animales, elementos de playa, piedras preciosas, bailes, plantas, planetas, técnicas de pintura, asignaturas, animales domésticos, quesos y más...
 
-## Technology Stack
+## Pila Tecnológica
 
-- **Next.js 16** with App Router
+- **Next.js 16** con App Router
 - **React 19**
 - **Tailwind CSS v4**
 - **TypeScript 5**
-- Spanish word data in `data/words.json`
+- Datos de palabras en español en `data/words.json`
 
-## Getting Started
+## Cómo Empezar
 
 ```bash
 npm run dev
-# or
+# o
 yarn dev
-# or
+# o
 pnpm dev
-# or
+# o
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el resultado.
 
-## Learn More
+## Más Información
 
-To learn more about Next.js, take a look at the [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+Para aprender más sobre Next.js, consulta la [Documentación de Next.js](https://nextjs.org/docs) - aprende sobre las features y API de Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Puedes consultar el [repositorio de Next.js en GitHub](https://github.com/vercel/next.js) - tus comentarios y contribuciones son bienvenidos!
 
-## Deploy on Vercel
+## Despliegue en Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+La forma más fácil de desplegar tu aplicación Next.js es usar la [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) de los creadores de Next.js.
